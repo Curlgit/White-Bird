@@ -2,8 +2,8 @@
 # WHITE BIRD — DISCLAIMER
 
 **Project:** White Bird  
-**Developer:** Firewall-Crusher  
-**Profile:** https://github.com/UG-ALOK?tab=repositories
+**Developer:** Firewall
+**Profile:** https://github.com/Curlgit/White-Bird.git
 
 ## 1. Purpose of the Software
 
