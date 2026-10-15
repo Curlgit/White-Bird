@@ -62,5 +62,5 @@ If you do not agree with these terms, do not use the software.
 
 ---
 
-**Developer:** Firewall-Crusher  
-**Codeberg:** https://codeberg.org/Firewall-Crusher
+**Developer:** Firewall
+**Codeberg:** https://github.com/Curlgit/White-Bird.git
