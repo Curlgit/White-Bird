@@ -59,11 +59,7 @@ The application stores the configured URL list in `sites.json`. It does not gene
 
 An HTTP 200 response only indicates that a page is accessible. It does not confirm that an account exists or belongs to a particular person.
 
-## Developer
-
-**Firewall-Crusher**
-
-Profile: https://github.com/UG-ALOK
+**Developed** **Curlgit**
 
 ## License
 
