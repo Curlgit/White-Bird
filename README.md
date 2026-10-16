@@ -23,7 +23,7 @@
 Clone or download this repository, then open its directory in Termux.
 1
 ```bash
-git clone https://github.com/Curlgit/White-Bird.git
+git clone https://github.com/Fr/White-Bird.git
 ```
 ```bash
 cd White-Bird
