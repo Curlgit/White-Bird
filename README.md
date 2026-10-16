@@ -23,7 +23,7 @@
 Clone or download this repository, then open its directory in Termux.
 1
 ```bash
-git clone https://github.com/Curlgit/White-Bird.git
+git clone https://github.com/RIS/White-Bird.git
 ```
 ```bash
 cd White-Bird
@@ -59,7 +59,7 @@ The application stores the configured URL list in `sites.json`. It does not gene
 
 An HTTP 200 response only indicates that a page is accessible. It does not confirm that an account exists or belongs to a particular person.
 
-**Developed** **Curlgit**
+**Developed** **RIS**
 
 ## License
 
